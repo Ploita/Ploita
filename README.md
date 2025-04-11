@@ -4,7 +4,7 @@ I'm Arthur, a Machine Learning Engineer. Currently working on Reinforcement Lear
 ## Projects
 
 * **Dissertation:** [Dissertacao](https://github.com/Ploita/Dissertacao) - Reinforcement Learning applied to control problems.
-* **Photovoltaic Systems: Research on methods for detection of DC electric arc faults in photovoltaic systems (private repository).
+* **Photovoltaic Systems**: Research on methods for detection of DC electric arc faults in photovoltaic systems (private repository).
 
 
 ## Language and Tools
